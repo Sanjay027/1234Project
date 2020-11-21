@@ -13,6 +13,11 @@ public class day6_4 {
 		
 	     boolean check = str_101.isEmpty();
 	    		 System.out.println(check);
+	    		 
+	    		 boolean check1 = str_101.isEmpty();
+	    		 System.out.println(check);	 
+	    		 
+	    		 
 		}
 		
 		
